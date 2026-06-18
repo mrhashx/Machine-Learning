@@ -54,7 +54,9 @@ $$J(\theta) = -\frac{1}{m}\sum_{i=1}^{m} [y^{(i)}\log(h_\theta(x^{(i)})) + (1-y^
   <img src="images/LR_Cost_Phase2.png" width="48%" alt="Log-Loss Convergence" />
 </p>
 
+
 ---
+
 
 ## 📈 Model Comparison Summary
 
@@ -63,7 +65,9 @@ $$J(\theta) = -\frac{1}{m}\sum_{i=1}^{m} [y^{(i)}\log(h_\theta(x^{(i)})) + (1-y^
 | **Support Vector Machine (SVM)** | **93.76%** | **0.1679** | **Good Fit** (Highly stable, robust on complex classes like stairs) |
 | **Logistic Regression (SGD)** | ~93.15% | ~0.2124 | **Good Fit** (Excellent baseline, zero overfitting) |
 
+
 ---
+
 
 ## 🛠️ Environment & Tools
 - **Language:** Python 3.x
